@@ -1,0 +1,38 @@
+.clothe img{
+  height: 150px;
+  border-radius: 10px;
+}
+
+.clothe{
+    display: flex;
+    align-items: flex-start;
+    padding: 30px;
+    justify-content: space-around;
+}
+
+#combi{
+  padding: 40px;
+  box-shadow: 5px 5px 5px orange;
+  border-radius: 10px;
+  background-color: lightgrey;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+#pantalon{
+  padding: 40px;
+  box-shadow: 5px 5px 5px orange;
+  border-radius: 10px;
+  background-color: lightgrey;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+#dessin{
+  padding: 40px;
+  box-shadow: 5px 5px 5px orange;
+  border-radius: 10px;
+  background-color: lightgrey;
+  margin: 20px 0px;
+  text-align: center;
+}
